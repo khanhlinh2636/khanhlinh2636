@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Huy!</h2>
+<h2 align="center">👋 こにちわ、カイン・リンです！</h2>
 
 <p align="center">
   💻 IT Student | 🌐 Web Developer (Beginner) | 🇯🇵 VN-JP Program
@@ -9,35 +9,92 @@
 ## 🔗 Social Media
 
 <p>
-  <a href="https://facebook.com/trnghuy.bru" target="_blank">
+  <a href="https://www.facebook.com/share/17VZ8rBjsu/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="25"/>
+    <b> bella.26 </b>
   </a>
-  <span> <b>trnghuy.bru</b></span>
-</p>
-
-<p>
-  <a href="https://instagram.com/trnghuy.bru" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="25"/>
-  </a>
-  <span> <b>trnghuy.bru</b></span>
 </p>
 
 ---
 
 ## 📧 Contact Me
-- **Email:** bellalovelycutepitbull.  
-- **GitHub:** https://github.com/your-username
+- **Email:** bellalovelycutepitbull@gmail.com  
+- **GitHub:** https://github.com/khanhlinh2636
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Languages I Use)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>  
+<p>
+  <a href="#reactjs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  </a>
+  <a href="#php">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  </a>
+  <a href="#sqlserver">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+  </a>
+  <a href="#cpp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  </a>
+  <a href="#htmlcss">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  </a>
+  <a href="#java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  </a>
+  <a href="#mysql">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Cảm ơn bạn đã ghé thăm GitHub của mình!*  
+# 📘 Chi Tiết Các Ngôn Ngữ Thông Thạo
 
+---
+
+### <a id="reactjs">⚛ ReactJS</a>
+- Thư viện JavaScript dùng để tạo giao diện web
+- Thành thạo useState, props, component
+
+---
+
+### <a id="php">🐘 PHP</a>
+- Ngôn ngữ backend mạnh mẽ  
+- Dùng để làm website động  
+
+---
+
+### <a id="sqlserver">🗄 SQL Server</a>
+- CSDL phổ biến trong doanh nghiệp  
+- Thành thạo CRUD + JOIN + Stored Procedure  
+
+---
+
+### <a id="cpp">💠 C++</a>
+- Ngôn ngữ nền tảng  
+- Học thuật toán, cấu trúc dữ liệu  
+
+---
+
+### <a id="htmlcss">🌐 HTML / CSS</a>
+- Tạo giao diện web  
+- Là nền tảng quan trọng  
+
+---
+
+### <a id="java">☕ Java</a>
+- Lập trình OOP  
+- Thường dùng cho doanh nghiệp  
+
+---
+
+### <a id="mysql">🐬 MySQL</a>
+- CSDL quan hệ phổ biến nhất  
+- Truy vấn SQL, khóa chính - khóa ngoại  
+
+---
+
+⭐ *Cảm ơn bạn đã ghé thăm GitHub của mình!*
