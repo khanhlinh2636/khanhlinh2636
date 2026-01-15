@@ -101,5 +101,31 @@
 - Truy vấn SQL, khóa chính - khóa ngoại  
 
 ---
+---
+
+## 🏅 Certifications & Badges (Credly)
+
+<p align="center">
+  <a href="https://www.credly.com/badges/7775277e-2a42-4018-91bd-9ad224463f53/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/f18c4ca3-2500-4b54-beff-31f7b911c828/blob" width="120"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/91983099-0541-4b79-ab7f-c37a258d33dc/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/2b1973aa-61cc-4be1-b058-82926da9d8e4/blob" width="120"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/f001b213-f888-46ec-b0e4-1910aab9db1a/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/9ddca21f-fa26-4954-988e-f108ab33b323/blob" width="120"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/eef80c18-8d82-4695-acda-31d6f6ec4021/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/53eb01b7-a2ac-450b-8d51-392e088bd837/blob" width="120"/>
+  </a>
+</p>
+
+<p align="center">
+  📜 All badges are verified via <a href="https://www.credly.com/" target="_blank">Credly</a>
+</p>
+
 
 ⭐ *Cảm ơn bạn đã ghé thăm GitHub của mình!*
